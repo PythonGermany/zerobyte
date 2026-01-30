@@ -60,7 +60,7 @@ export default function Layout({ loaderData }: Route.ComponentProps) {
 								</Button>
 								<Button variant="default" size="sm" className="relative overflow-hidden hidden lg:inline-flex">
 									<a
-										href="https://github.com/nicotsx/zerobyte/issues/new"
+										href="https://github.com/nicotsx/zerobyte/issues/new?template=2_bug_report.yml"
 										target="_blank"
 										rel="noreferrer"
 										className="flex items-center gap-2"
